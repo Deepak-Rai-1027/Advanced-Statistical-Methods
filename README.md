@@ -4,4 +4,4 @@ My learning about various advanced statistical methods and it's implementation u
 ## [**1. Sampling Distribution of Sample Mean along with R-programming implementation.**](https://github.com/Deepak-Rai-1027/Sampling-Distribution)
 * In this repository I have tried to explain with an example and R-programming the concept of Sampling Distribution for Sample mean and how it is useful in real life scenario to estimate the unknown population parameter. 
 
-![](https://github.com/Deepak-Rai-1027/Statistical-Learning/blob/main/images/Sampling_Distribution.JPG)
+![](/images/Sampling_Distribution.JPG)
